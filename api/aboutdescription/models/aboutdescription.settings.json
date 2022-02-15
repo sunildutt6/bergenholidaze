@@ -1,0 +1,18 @@
+{
+  "kind": "singleType",
+  "collectionName": "aboutdescriptions",
+  "info": {
+    "name": "aboutdescription"
+  },
+  "options": {
+    "increments": true,
+    "timestamps": true,
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "description": {
+      "type": "text"
+    }
+  }
+}
